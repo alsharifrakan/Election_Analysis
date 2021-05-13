@@ -34,6 +34,20 @@
 ![](images/deliverable1.png)
 
 
+![](images/deliverable1_2.png)
+
+#### **Deliverable Requirements**
+1. Total Votes in the election are printed to the terminal.
+2. Each candidate’s total votes and percentage of votes are printed to the terminal
+3. The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
+4. Each county and its total vote count are printed to the terminal.
+5. Each county and its percentage of the total votes are printed to the terminal.
+6. The county with the largest number of voters is printed to the terminal.
+
+### **Deliverable 2**
+
+
+
 
  
 ## **Challenge Summary**
