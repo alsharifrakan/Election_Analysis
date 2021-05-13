@@ -62,12 +62,12 @@
 
 ## **Challenge Summary**
 
-- Total Votes= 369,711
-- County Vote:
+- **Total Votes**= 369,711
+- **County Vote**:
   -Jefferson: 38,855
   -Denver: 306,055
   -Arapahoe: 24,801
- - Largest County turnout: Denver
- - Winner: Diana DeGette
- - Winning Vote count: 272,892
- - winning Percentage: 73.8% 
+ - **Largest County turnout**: Denver
+ - **Winner**: Diana DeGette
+ - **Winning Vote count**: 272,892
+ - **winning Percentage**: 73.8% 
