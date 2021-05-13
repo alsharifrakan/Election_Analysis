@@ -1,7 +1,7 @@
 # **Election_Analysis**
 
 ## **project Overview**
-
+-Board of elections has requested to conduct an election audit 
 ## **Resources**
 -Data source: election_results.csv
 -software: Python 3.7.6
@@ -29,4 +29,6 @@
 
 
 ## **Challenge Overview**
+### **Deliverable 1**
+ 
 ## **Challenge Summary**
