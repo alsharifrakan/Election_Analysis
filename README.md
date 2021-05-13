@@ -29,6 +29,8 @@
 
 
 ## **Challenge Overview**
+###**Overview of Election Audit**
+the Purpose of this analysis is to determine the total number of votes , the results per each candidate and the winners details.
 ### **Deliverable 1**
 
 ![](images/deliverable1.png)
@@ -61,6 +63,7 @@
 
 
 ## **Challenge Summary**
+### **Election-audit results**
 
 - **Total Votes**= 369,711
 - **County Vote**:
@@ -71,3 +74,6 @@
  - **Winner**: Diana DeGette
  - **Winning Vote count**: 272,892
  - **winning Percentage**: 73.8% 
+
+### Election-audit Summary
+this script can be used with some modifications for annual corporate meeting to calculate each vote depending on the weight ( number of shares ) each voters has. another way to use this script with some modification is to calculate how is the participation for each county in adiminsitring the COVID Vaccine within a particular state.
