@@ -46,8 +46,28 @@
 
 ### **Deliverable 2**
 
+![](images/deliverable2.png)
+
+
+#### **Deliverable 2 Requirments**
+1. Total Votes in the election are saved in the election_results.txt file.
+2. Each candidate’s total votes and percentage of votes are saved in the election_results.txt file.
+3. The winner of the election, winning vote count, and winning percentage of votes are saved in the election_results.txt file. 
+4. Each county and its total vote count are saved in the election_results.txt file.
+5. Each county and its percentage of the total votes are saved in the election_results.txt file.
+6. The county with the largest number of voters is saved in the election_results.txt file. 
 
 
 
- 
+
 ## **Challenge Summary**
+
+- Total Votes= 369,711
+- County Vote:
+  -Jefferson: 38,855
+  -Denver: 306,055
+  -Arapahoe: 24,801
+ - Largest County turnout: Denver
+ - Winner: Diana DeGette
+ - Winning Vote count: 272,892
+ - winning Percentage: 73.8% 
